@@ -1,4 +1,4 @@
-# Projeto Formação Python
+# [DIO] Projeto Formação Python
 
 Este projeto apresenta os exemplos de uso da biblioteca SQLAIchemy do Python que foram elaborados em conjunto com as aulas do curso "Formação Python" da [DIO](https://www.dio.me/bootcamp/primeiros-passos-em-tecnologia).
 
